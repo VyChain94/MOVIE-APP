@@ -1,13 +1,18 @@
 .body{
-    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.22), rgba(255, 255, 255, 0.43)),
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.32), rgba(255, 255, 255, 0.53)),
      url(/assets/images/wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1{
-    font-family: 'Poppins', sans-serif;
     color: white;
+}
+h2{
+    color: black;
+    padding-left: 10px;
+
 }
 nav{
     width: 100%;

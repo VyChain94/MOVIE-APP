@@ -136,7 +136,7 @@ document.addEventListener("click", function(event) {
 })
 
 
-getTopRatedMovies();
-
 getUpcomingMovies();
+
+getTopRatedMovies();
 
