@@ -11,6 +11,7 @@ function movieSection(movies) {
             src=${IMAGE_URL + movie.poster_path} data-movie-id=${movie.id}
             />`;
     }).join("")
+
 }
 
 //create a container for the movies
